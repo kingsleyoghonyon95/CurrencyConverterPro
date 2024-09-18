@@ -1,4 +1,5 @@
 ﻿using CurrencyConverter.services.models;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +11,7 @@ namespace CurrencyConverter.services.ApiLogic
 {
     public class CurrencyLogic
     {
-        public async Task<Root> GetApi(string from, string to, double amount)
+        public async Task<Root?> GetApi(string from, string to, double amount)
         {
             var client = new HttpClient();
             var request = new HttpRequestMessage
@@ -27,8 +28,13 @@ namespace CurrencyConverter.services.ApiLogic
             {
                 response.EnsureSuccessStatusCode();
                 var body = await response.Content.ReadAsStringAsync();
+                Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(body)!;
                 Console.WriteLine(body);
+                
+                return myDeserializedClass;
+
             }
+
 
         }
     }
