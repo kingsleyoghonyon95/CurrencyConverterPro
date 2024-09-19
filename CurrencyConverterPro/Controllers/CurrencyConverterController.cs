@@ -27,7 +27,7 @@ namespace CurrencyConverterPro.Controllers
 
         public async Task<IActionResult> GetCurrency(string from, string to, double amount)
         {
-            Root? result = await _service.GetApi(from, to, amount);
+            Root? result = await _service!.GetApi(from, to, amount);
 
             var model = new CurrencyConverterViewModel
             {
