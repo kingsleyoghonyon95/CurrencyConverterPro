@@ -22,21 +22,28 @@ namespace CurrencyConverterPro.Controllers
             CurrencyConverterViewModel converterViewModel = new();
        
             
-            return View();
+            return View(converterViewModel);
         }
 
-        public async IActionResult GetCurrency(string from, string to, double amount)
+        public async Task<IActionResult> GetCurrency(string from, string to, double amount)
         {
-            Root result = await _service.GetApi(from, to, amount);
+            Root? result = await _service.GetApi(from, to, amount);
 
             var model = new CurrencyConverterViewModel
             {
-                @base = result.@base,
+                @base = result?.@base,
+                USD = result?.rates?.USD,
+                EUR = result?.rates?.EUR,
+                NGN = result?.rates?.NGN,
+                GBP = result?.rates?.GBP,
+                QAR = result?.rates?.QAR,
+                CAD = result?.rates?.CAD,
 
-            }
+            };
             
             
-            return View();
+            return View("Index",model);
         }
     }
 }
+

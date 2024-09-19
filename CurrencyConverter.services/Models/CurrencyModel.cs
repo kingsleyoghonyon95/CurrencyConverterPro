@@ -11,13 +11,22 @@ namespace CurrencyConverter.services.models
     {
         public double EUR { get; set; }
         public double GBP { get; set; }
+
+        public double USD { get; set; }
+
+        public double CAD { get; set; }
+        public double NGN { get; set; }
+        public double QAR { get; set; }
+
     }
 
     public class Root
     {
-        public string @base { get; set; }
-        public string date { get; set; }
-        public Rates rates { get; set; }
+      
+
+        public string? @base { get; set; }
+        public string? date { get; set; }
+        public Rates? rates { get; set; }
         public bool success { get; set; }
         public int timestamp { get; set; }
     }
