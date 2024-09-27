@@ -28,7 +28,7 @@ namespace CurrencyConverterPro
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=CurrencyConverter}/{action=Index}/{id?}");
 
             app.Run();
         }

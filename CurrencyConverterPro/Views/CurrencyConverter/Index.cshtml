@@ -1,7 +1,39 @@
 ﻿@model CurrencyConverterViewModel
 
+ 
 
-@{
-    ViewData["Title"] = "Currency ConverterPro | CurrencyConverterPro";
-}
+<h2>Currency Conversion</h2>
+
+<form method="post" action="/CurrencyConverter/GetCurrency">
+    <div>
+        <label for="baseCurrency">Base Currency:</label>
+        <select id="baseCurrency" name="from">
+            <option value="EUR">Euro (EUR)</option>
+            <option value="GBP">British Pound (GBP)</option>
+            <option value="USD">US Dollar (USD)</option>
+            <option value="CAD">Canadian Dollar (CAD)</option>
+            <option value="NGN">Nigerian Naira (NGN)</option>
+            <option value="QAR">Qatari Riyal (QAR)</option>
+        </select>
+    </div>
+
+    <div>
+        <label for="targetCurrency">Convert To:</label>
+        <select id="targetCurrency" name="to">
+            <option value="EUR">Euro (EUR)</option>
+            <option value="GBP">British Pound (GBP)</option>
+            <option value="USD">US Dollar (USD)</option>
+            <option value="CAD">Canadian Dollar (CAD)</option>
+            <option value="NGN">Nigerian Naira (NGN)</option>
+            <option value="QAR">Qatari Riyal (QAR)</option>
+        </select>
+    </div>
+
+    <div>
+        <label for="amount">Amount:</label>
+        <input type="number" id="amount" name="amount" required />
+    </div>
+
+    <button type="submit">Convert</button>
+</form>
 

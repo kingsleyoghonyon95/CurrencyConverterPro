@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\CurrencyConverterPro\CurrencyConverter.services\bin\Debug\net8.0\CurrencyConverter.services.deps.json
+C:\Users\Owner\source\repos\CurrencyConverterPro\CurrencyConverter.services\bin\Debug\net8.0\CurrencyConverter.services.dll
+C:\Users\Owner\source\repos\CurrencyConverterPro\CurrencyConverter.services\bin\Debug\net8.0\CurrencyConverter.services.pdb
+C:\Users\Owner\source\repos\CurrencyConverterPro\CurrencyConverter.services\obj\Debug\net8.0\CurrencyConverter.services.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\CurrencyConverterPro\CurrencyConverter.services\obj\Debug\net8.0\CurrencyConverter.services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\CurrencyConverterPro\CurrencyConverter.services\obj\Debug\net8.0\CurrencyConverter.services.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\CurrencyConverterPro\CurrencyConverter.services\obj\Debug\net8.0\CurrencyConverter.services.AssemblyInfo.cs
+C:\Users\Owner\source\repos\CurrencyConverterPro\CurrencyConverter.services\obj\Debug\net8.0\CurrencyConverter.services.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\CurrencyConverterPro\CurrencyConverter.services\obj\Debug\net8.0\CurrencyConverter.services.sourcelink.json
+C:\Users\Owner\source\repos\CurrencyConverterPro\CurrencyConverter.services\obj\Debug\net8.0\CurrencyConverter.services.dll
+C:\Users\Owner\source\repos\CurrencyConverterPro\CurrencyConverter.services\obj\Debug\net8.0\refint\CurrencyConverter.services.dll
+C:\Users\Owner\source\repos\CurrencyConverterPro\CurrencyConverter.services\obj\Debug\net8.0\CurrencyConverter.services.pdb
+C:\Users\Owner\source\repos\CurrencyConverterPro\CurrencyConverter.services\obj\Debug\net8.0\ref\CurrencyConverter.services.dll
