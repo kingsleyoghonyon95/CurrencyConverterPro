@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|c:\\users\\owner\\source\\repos\\currencyconverterpro\\currencyconverterpro\\controllers\\currencyconvertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|solutionrelative:currencyconverterpro\\controllers\\currencyconvertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D25EA0C1-08DD-4219-BBFB-0203E41329F1}|CurrencyConverter.services\\CurrencyConverter.services.csproj|c:\\users\\owner\\source\\repos\\currencyconverterpro\\currencyconverter.services\\apilogic\\currencylogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25EA0C1-08DD-4219-BBFB-0203E41329F1}|CurrencyConverter.services\\CurrencyConverter.services.csproj|solutionrelative:currencyconverter.services\\apilogic\\currencylogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|c:\\users\\owner\\source\\repos\\currencyconverterpro\\currencyconverterpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|solutionrelative:currencyconverterpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|c:\\users\\owner\\source\\repos\\currencyconverterpro\\currencyconverterpro\\views\\currencyconverter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|solutionrelative:currencyconverterpro\\views\\currencyconverter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|c:\\users\\owner\\source\\repos\\currencyconverterpro\\currencyconverterpro\\controllers\\currencyconvertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|solutionrelative:currencyconverterpro\\controllers\\currencyconvertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "CurrencyLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverter.services\\ApiLogic\\CurrencyLogic.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.services\\ApiLogic\\CurrencyLogic.cs",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverter.services\\ApiLogic\\CurrencyLogic.cs",
+              "RelativeToolTip": "CurrencyConverter.services\\ApiLogic\\CurrencyLogic.cs",
+              "ViewState": "AgIAAB0AAAAAl+MumfsvwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T00:37:28.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\Program.cs",
               "RelativeDocumentMoniker": "CurrencyConverterPro\\Program.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CurrencyConverterPro\\Views\\Home\\Index.cshtml",
@@ -68,19 +85,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CurrencyConverterController.cs",
               "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\Controllers\\CurrencyConverterController.cs",
               "RelativeDocumentMoniker": "CurrencyConverterPro\\Controllers\\CurrencyConverterController.cs",
               "ToolTip": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\Controllers\\CurrencyConverterController.cs",
               "RelativeToolTip": "CurrencyConverterPro\\Controllers\\CurrencyConverterController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAQhfadelY9wBwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T00:02:04.839Z"
+              "WhenOpened": "2024-09-26T00:02:04.839Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\Views\\CurrencyConverter\\Index.cshtml",
               "RelativeDocumentMoniker": "CurrencyConverterPro\\Views\\CurrencyConverter\\Index.cshtml",
