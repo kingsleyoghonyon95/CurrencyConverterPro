@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|c:\\users\\owner\\source\\repos\\currencyconverterpro\\currencyconverterpro\\views\\currencyconverter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|solutionrelative:currencyconverterpro\\views\\currencyconverter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|c:\\users\\owner\\source\\repos\\currencyconverterpro\\currencyconverterpro\\models\\currencyconverterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|solutionrelative:currencyconverterpro\\models\\currencyconverterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|c:\\users\\owner\\source\\repos\\currencyconverterpro\\currencyconverterpro\\controllers\\currencyconvertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|solutionrelative:currencyconverterpro\\controllers\\currencyconvertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +19,16 @@
       "RelativeMoniker": "D:0:0:{D25EA0C1-08DD-4219-BBFB-0203E41329F1}|CurrencyConverter.services\\CurrencyConverter.services.csproj|solutionrelative:currencyconverter.services\\apilogic\\currencylogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|c:\\users\\owner\\source\\repos\\currencyconverterpro\\currencyconverterpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|solutionrelative:currencyconverterpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D25EA0C1-08DD-4219-BBFB-0203E41329F1}|CurrencyConverter.services\\CurrencyConverter.services.csproj|c:\\users\\owner\\source\\repos\\currencyconverterpro\\currencyconverter.services\\models\\currencymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25EA0C1-08DD-4219-BBFB-0203E41329F1}|CurrencyConverter.services\\CurrencyConverter.services.csproj|solutionrelative:currencyconverter.services\\models\\currencymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|c:\\users\\owner\\source\\repos\\currencyconverterpro\\currencyconverterpro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|solutionrelative:currencyconverterpro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|c:\\users\\owner\\source\\repos\\currencyconverterpro\\currencyconverterpro\\views\\currencyconverter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|solutionrelative:currencyconverterpro\\views\\currencyconverter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|c:\\users\\owner\\source\\repos\\currencyconverterpro\\currencyconverterpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|solutionrelative:currencyconverterpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +54,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "CurrencyModel.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverter.services\\Models\\CurrencyModel.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.services\\Models\\CurrencyModel.cs",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverter.services\\Models\\CurrencyModel.cs",
+              "RelativeToolTip": "CurrencyConverter.services\\Models\\CurrencyModel.cs",
+              "ViewState": "AgIAABIAAABg7CWlEtI9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T02:03:09.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CurrencyLogic.cs",
               "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverter.services\\ApiLogic\\CurrencyLogic.cs",
               "RelativeDocumentMoniker": "CurrencyConverter.services\\ApiLogic\\CurrencyLogic.cs",
               "ToolTip": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverter.services\\ApiLogic\\CurrencyLogic.cs",
               "RelativeToolTip": "CurrencyConverter.services\\ApiLogic\\CurrencyLogic.cs",
-              "ViewState": "AgIAAB0AAAAAl+MumfsvwCcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAABAqKo2wUMcwBoAAACrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T00:37:28.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "CurrencyConverterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\Models\\CurrencyConverterViewModel.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterPro\\Models\\CurrencyConverterViewModel.cs",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\Models\\CurrencyConverterViewModel.cs",
+              "RelativeToolTip": "CurrencyConverterPro\\Models\\CurrencyConverterViewModel.cs",
+              "ViewState": "AgIAAAEAAACks5dwEvguwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:18:41.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\Program.cs",
               "RelativeDocumentMoniker": "CurrencyConverterPro\\Program.cs",
@@ -67,12 +101,11 @@
               "RelativeToolTip": "CurrencyConverterPro\\Program.cs",
               "ViewState": "AgIAABUAAAAAupfweE3lvx4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T00:29:07.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T00:29:07.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CurrencyConverterPro\\Views\\Home\\Index.cshtml",
@@ -85,26 +118,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CurrencyConverterController.cs",
               "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\Controllers\\CurrencyConverterController.cs",
               "RelativeDocumentMoniker": "CurrencyConverterPro\\Controllers\\CurrencyConverterController.cs",
               "ToolTip": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\Controllers\\CurrencyConverterController.cs",
               "RelativeToolTip": "CurrencyConverterPro\\Controllers\\CurrencyConverterController.cs",
-              "ViewState": "AgIAABMAAAAQhfadelY9wBwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T00:02:04.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\Views\\CurrencyConverter\\Index.cshtml",
               "RelativeDocumentMoniker": "CurrencyConverterPro\\Views\\CurrencyConverter\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\Views\\CurrencyConverter\\Index.cshtml",
-              "RelativeToolTip": "CurrencyConverterPro\\Views\\CurrencyConverter\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\Views\\CurrencyConverter\\Index.cshtml*",
+              "RelativeToolTip": "CurrencyConverterPro\\Views\\CurrencyConverter\\Index.cshtml*",
+              "ViewState": "AgIAABoAAAAAx3F8Os0pwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-25T23:33:31.684Z",
               "EditorCaption": ""

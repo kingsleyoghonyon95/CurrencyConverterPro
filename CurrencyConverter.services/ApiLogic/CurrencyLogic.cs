@@ -6,9 +6,14 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
+using System.Net.Http.Headers;
 
 namespace CurrencyConverter.services.ApiLogic
 {
+    public enum Language
+    {
+        en
+    }
     public class CurrencyLogic
     {
         public async Task<Root?> GetApi(string from, string to, double amount)
@@ -19,7 +24,7 @@ namespace CurrencyConverter.services.ApiLogic
                 var request = new HttpRequestMessage
                 {
 
-                    RequestUri = new Uri($"https://currency-converter5.p.rapidapi.com/currency/convert?format=json&from={from}&to={to}&amount={amount}&language=en"),
+                    RequestUri = new Uri($"https://currency-converter5.p.rapidapi.com/currency/convert?format=json&from={from}&to={to}&amount={amount}&language=Language"),
                     Headers =
                     {
                         { "x-rapidapi-key", "1fa8321012mshb5079405016f549p14dd30jsn51e13b4e18a0" },
