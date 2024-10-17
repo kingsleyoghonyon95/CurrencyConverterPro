@@ -1,23 +1,29 @@
-﻿using CurrencyConverter.services.models;
+﻿using System;
+using CurrencyConverter.Services.Model;
+
 
 namespace CurrencyConverterPro.Models
 {
-    public class CurrencyConverterViewModel 
+
+    public class CurrencyConverterViewModel
     {
+        public string? FromCurrency { get; set; }
+        public string? ToCurrency { get; set; }
+        public double Amount { get; set; }
+        public List<string> CurrencyList { get; set; }
+        public double ConvertedResult { get; set; }
 
-        public double? EUR { get; set; }
-        public double? GBP { get; set; }
-        public string? @base { get; set; }
-        public double? USD { get; set; }
-
-        public double? CAD { get; set; }
-        public double? NGN { get; set; }
-        public double? QAR { get; set; }
-        
-       
-       
-       
-
-
+        public CurrencyConverterViewModel()
+        {
+            CurrencyList =
+            [
+                "USD",
+                "EUR",
+                "NGN"
+            ];
+        }
     }
-}
+}   
+
+
+

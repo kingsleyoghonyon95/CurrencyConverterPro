@@ -1,3 +1,5 @@
+using CurrencyConverter.Services.CurrencyLogic;
+
 namespace CurrencyConverterPro
 {
     public class Program
@@ -8,6 +10,8 @@ namespace CurrencyConverterPro
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddScoped<CurrencyLogic, CurrencyLogic>();
+
 
             var app = builder.Build();
 
@@ -28,9 +32,14 @@ namespace CurrencyConverterPro
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=CurrencyConverter}/{action=Index}/{id?}");
+                pattern: "{controller=Home}/{action=Index}/{id?}");   
 
             app.Run();
+
         }
+    }
+
+    internal class CurrencyConverterLogic
+    {
     }
 }

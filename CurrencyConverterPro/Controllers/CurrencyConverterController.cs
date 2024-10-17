@@ -1,49 +1,48 @@
-﻿using CurrencyConverter.services.ApiLogic;
-using CurrencyConverter.services.models;
+﻿using System;
+using CurrencyConverter.Services.CurrencyLogic;
+using CurrencyConverter.Services.Model;
 using CurrencyConverterPro.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Identity.Client;
 
 namespace CurrencyConverterPro.Controllers
 {
     public class CurrencyConverterController : Controller
     {
-        private CurrencyLogic? _service;
+        private readonly CurrencyLogic _logic;
 
-        public CurrencyConverterController()
+        public CurrencyConverterController(CurrencyLogic logic)
         {
-            _service = new CurrencyLogic();
+            _logic = logic;
         }
 
-
-
+        // GET: /<controller>/
         public IActionResult Index()
         {
-            CurrencyConverterViewModel converterViewModel = new();
-       
-            
-            return View(converterViewModel);
+            var model = new CurrencyConverterViewModel();
+            return View(model);
         }
 
-        public async Task<IActionResult> GetCurrency(string from, string to, double amount)
+        [HttpPost]
+        public IActionResult Convert(CurrencyConverterViewModel model)
         {
-            Root? result = await _service!.GetApi(from, to, amount);
-
-            var model = new CurrencyConverterViewModel
+            if (ModelState.IsValid)
             {
-                @base = result?.@base,
-                USD = result?.rates?.USD,
-                EUR = result?.rates?.EUR,
-                NGN = result?.rates?.NGN,
-                GBP = result?.rates?.GBP,
-                QAR = result?.rates?.QAR,
-                CAD = result?.rates?.CAD,
+                var currency = new CurrencyModel
+                {
+                    FromCurrency = model.FromCurrency,
+                    ToCurrency = model.ToCurrency,
+                    Amount = model.Amount
+                };
 
-            };
-            
-            
-            return View("Index",model);
+                double convertedAmount = _logic.ConvertCurrency(currency);
+                model.ConvertedResult = Math.Round(convertedAmount, 2);
+
+                // Return the view with the updated model
+                return View("Index", model);
+            }
+
+            // If model state is not valid, return the view with validation errors
+            return View("Index", model);
         }
     }
 }
-
