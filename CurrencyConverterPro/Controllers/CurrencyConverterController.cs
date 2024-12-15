@@ -1,4 +1,5 @@
 ﻿using System;
+using CurrencyConverter.services.ICurrencyConverter;
 using CurrencyConverter.Services.CurrencyLogic;
 using CurrencyConverter.Services.Model;
 using CurrencyConverterPro.Models;
@@ -8,9 +9,9 @@ namespace CurrencyConverterPro.Controllers
 {
     public class CurrencyConverterController : Controller
     {
-        private readonly CurrencyLogic _logic;
+        private readonly ICurrencyConverterLogic _logic;
 
-        public CurrencyConverterController(CurrencyLogic logic)
+        public CurrencyConverterController(ICurrencyConverterLogic logic)
         {
             _logic = logic;
         }
@@ -20,6 +21,11 @@ namespace CurrencyConverterPro.Controllers
         {
             var model = new CurrencyConverterViewModel();
             return View(model);
+        }
+
+        public IActionResult WelcomePage ()
+        {
+            return View();
         }
 
         [HttpPost]

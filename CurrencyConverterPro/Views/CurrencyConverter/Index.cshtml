@@ -4,27 +4,48 @@
     ViewBag.Title = "Currency Converter";
 }
 
-<h2>Currency Converter</h2>
+<h2 class="title">Currency Converter</h2>
 <form method="post" action="~/CurrencyConverter/Convert">
-    <div class="form-control">
-        <div class="input-group mb-3">
-            <select class="btn btn-outline-secondary dropdown-toggle" name="FromCurrency">
+    <!-- From Currency and Amount -->
+    <div class="currency-row">
+        <div class="currency-block">
+            <label for="FromCurrency" class="label">From Currency:</label>
+            <select id="FromCurrency" class="currency-dropdown" name="FromCurrency" required>
+                <option value="" disabled selected>Select Currency</option>
                 @foreach (string currency in Model.CurrencyList)
                 {
-                    <option value="@currency">From Currency: @currency</option>
+                    <option value="@currency">@currency</option>
                 }
             </select>
-            <input type="number" class="form-control" name="Amount" placeholder="Amount to convert">
         </div>
-        <div class="input-group mb-3">
-            <select class ="btn btn-outline-secondary dropdown-toggle" name="ToCurrency">
+
+        <div class="currency-block">
+            <label for="Amount" class="label">Amount to Convert:</label>
+            <input id="Amount" type="number" class="currency-input" name="Amount" placeholder="Amount" required min="0.00">
+        </div>
+    </div>
+
+    <!-- To Currency and Converted Amount -->
+    <div class="currency-row">
+        <div class="currency-block">
+            <label for="ToCurrency" class="label">To Currency:</label>
+            <select id="ToCurrency" class="currency-dropdown" name="ToCurrency" required>
+                <option value="" disabled selected>Select Currency</option>
                 @foreach (string currency in Model.CurrencyList)
                 {
-                    <option value="@currency">To Currency @currency</option>
+                    <option value="@currency">@currency</option>
                 }
             </select>
-            <input class="form-control" value="@Model.ConvertedResult" placeholder="Result">
-            <button class="btn btn-primary" type="submit">Convert amount</button>
         </div>
+
+        <div class="currency-block">
+            <label for="ConvertedResult" class="label">Converted Amount:</label>
+            <input id="ConvertedResult" class="currency-input" value="@Model.ConvertedResult" placeholder="Result" readonly>
+        </div>
+    </div>
+
+    <!-- Submit Button -->
+    <div class="button-row">
+        <button class="btn btn-primary submit-button" type="submit">Convert Amount</button>
     </div>
 </form>
