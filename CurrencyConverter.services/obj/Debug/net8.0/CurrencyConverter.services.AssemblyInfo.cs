@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CurrencyConverter.services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42c3f42fe3b4696c0cfc7b5ecfa992a397d8ff71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88fe3f791340ebcf9b2c9512b767dc47d8e6e6ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("CurrencyConverter.services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CurrencyConverter.services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
