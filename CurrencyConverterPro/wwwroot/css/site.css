@@ -78,7 +78,6 @@ body {
     }
 
 .tooltip {
-    display: flex;
     position: absolute;
     color: white;
     background-color: gray;
@@ -92,8 +91,7 @@ body {
     opacity: 0;
     transition: opacity 0.15s;
     pointer-events: none;
-    left: 44.6%;
-    
+    left: 44.6%;  
 }
 
 
