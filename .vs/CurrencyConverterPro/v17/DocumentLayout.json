@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|c:\\users\\owner\\source\\repos\\currencyconverterpro\\currencyconverterpro\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|solutionrelative:currencyconverterpro\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|c:\\users\\owner\\source\\repos\\currencyconverterpro\\currencyconverterpro\\views\\currencyconverter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|solutionrelative:currencyconverterpro\\views\\currencyconverter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|c:\\users\\owner\\source\\repos\\currencyconverterpro\\currencyconverterpro\\models\\currencyconverterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|solutionrelative:currencyconverterpro\\models\\currencyconverterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|c:\\users\\owner\\source\\repos\\currencyconverterpro\\currencyconverterpro\\controllers\\currencyconvertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5BDF61-0C8B-4AFC-9BA5-B6AC07B8B0F6}|CurrencyConverterPro\\CurrencyConverterPro.csproj|solutionrelative:currencyconverterpro\\controllers\\currencyconvertercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CurrencyConverterPro\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CurrencyConverterPro\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAF4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-15T09:43:51.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\Views\\CurrencyConverter\\Index.cshtml",
+              "RelativeDocumentMoniker": "CurrencyConverterPro\\Views\\CurrencyConverter\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\Views\\CurrencyConverter\\Index.cshtml",
+              "RelativeToolTip": "CurrencyConverterPro\\Views\\CurrencyConverter\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAmgKMO9siwDUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T09:39:59.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrencyConverterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\Models\\CurrencyConverterViewModel.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterPro\\Models\\CurrencyConverterViewModel.cs",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\Models\\CurrencyConverterViewModel.cs",
+              "RelativeToolTip": "CurrencyConverterPro\\Models\\CurrencyConverterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:39:45.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CurrencyConverterController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\Controllers\\CurrencyConverterController.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterPro\\Controllers\\CurrencyConverterController.cs",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\Controllers\\CurrencyConverterController.cs",
+              "RelativeToolTip": "CurrencyConverterPro\\Controllers\\CurrencyConverterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:38:41.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
