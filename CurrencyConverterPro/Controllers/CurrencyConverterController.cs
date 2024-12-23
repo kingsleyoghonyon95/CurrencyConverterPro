@@ -16,7 +16,6 @@ namespace CurrencyConverterPro.Controllers
             _logic = logic;
         }
 
-        // GET: /<controller>/
         public IActionResult Index()
         {
             var model = new CurrencyConverterViewModel();
@@ -43,11 +42,9 @@ namespace CurrencyConverterPro.Controllers
                 double convertedAmount = _logic.ConvertCurrency(currency);
                 model.ConvertedResult = Math.Round(convertedAmount, 2);
 
-                // Return the view with the updated model
                 return View("Index", model);
             }
 
-            // If model state is not valid, return the view with validation errors
             return View("Index", model);
         }
     }

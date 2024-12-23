@@ -72,3 +72,7 @@ C:\Users\Owner\source\repos\CurrencyConverterPro\CurrencyConverterPro\obj\Debug\
 C:\Users\Owner\source\repos\CurrencyConverterPro\CurrencyConverterPro\obj\Debug\net8.0\CurrencyConverterPro.pdb
 C:\Users\Owner\source\repos\CurrencyConverterPro\CurrencyConverterPro\obj\Debug\net8.0\CurrencyConverterPro.genruntimeconfig.cache
 C:\Users\Owner\source\repos\CurrencyConverterPro\CurrencyConverterPro\obj\Debug\net8.0\ref\CurrencyConverterPro.dll
+C:\Users\Owner\source\repos\CurrencyConverterPro\CurrencyConverterPro\bin\Debug\net8.0\CurrencyConverterPro.staticwebassets.endpoints.json
+C:\Users\Owner\source\repos\CurrencyConverterPro\CurrencyConverterPro\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Owner\source\repos\CurrencyConverterPro\CurrencyConverterPro\obj\Debug\net8.0\staticwebassets\msbuild.CurrencyConverterPro.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Owner\source\repos\CurrencyConverterPro\CurrencyConverterPro\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CurrencyConverterPro.bundle.scp.css",
-      "PackagePath": "staticwebassets\\CurrencyConverterPro.bundle.scp.css"
+      "PackagePath": "staticwebassets\\CurrencyConverterPro.e25eadgpaf.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\css\\site.css",
@@ -243,6 +243,14 @@
     {
       "Id": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\worldmap.jpeg",
+      "PackagePath": "staticwebassets\\worldmap.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CurrencyConverterPro.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CurrencyConverterPro.Microsoft.AspNetCore.StaticWebAssets.props",

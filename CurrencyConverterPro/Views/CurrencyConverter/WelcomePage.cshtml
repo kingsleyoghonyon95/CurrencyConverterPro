@@ -1,1 +1,40 @@
-﻿
+﻿@{
+    ViewBag.Title = "Welcome Page";
+}
+
+<h1 class="title">Welcome to Currency ConverterPro</h1>
+
+<header>
+    <img class="world-map" src="~/worldmap.jpeg">
+</header>
+<section>
+    <h2>
+        About Currency ConverterPro
+    </h2>
+    
+    <p>
+        Currency ConverterPro is a profile project that demonstrates currency conversion functionality of the world's currencies.
+        This version uses hard-coded exchange rates, as incorporating live feed conversion rates through APIs typically requires financial subscription.
+    </p>
+
+    <p>
+        During developement, I explored various free APIs and implemented non blocking programming technique using the async and await keyword to handle live data.
+        However, none of the free options provided the required live rates without a subscription.
+    </p>
+
+    <p>
+        Ready to start exploring the features of Currency ConverterPro?
+    </p>
+
+    <div class="welcome-page-btn">
+    <a class="btn btn-primary" href="~/CurrencyConverter/Index">
+        click here
+        <div class="tooltip-welcome-page">
+            start your converting journey
+        </div>
+    </a>
+    </div>
+</section>
+
+
+

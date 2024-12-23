@@ -12,21 +12,21 @@ body {
 /* Container for each row */
 .currency-row {
     display: flex;
-    justify-content: space-between; /* Space between the two blocks */
+    justify-content: space-between; 
     align-items: center;
     border: 2px solid black; 
     padding: 15px;
-    margin-bottom: 15px; /* Add spacing between rows */
-    border-radius: 8px; /* Slightly rounded corners */
-    background-color: lightgray; /* Light gray background */
+    margin-bottom: 15px; 
+    border-radius: 8px; 
+    background-color: lightgray; 
 }
 
 /* Each block inside the row */
 .currency-block {
     display: flex;
-    flex-direction: column; /* Stack label and input vertically */
-    flex: 1; /* Each block takes equal space */
-    margin: 0 10px; /* Add horizontal spacing between blocks */
+    flex-direction: column; 
+    flex: 1; 
+    margin: 0 10px; 
 }
 
 /* Labels */
@@ -43,14 +43,13 @@ body {
     border: 1px solid gray;
     border-radius: 5px;
     transition: border 0.3s ease, box-shadow 0.3s ease;
-    width: 100%; /* this will take full block width */
+    width: 100%; 
 }
 
     .currency-dropdown:focus,
     .currency-input:focus {
         border-color: lightblue; 
         box-shadow: 0 0 5px rgba(37, 140, 251, 0.5); 
-        outline: none;
     }
 
 /* Button Row */
@@ -77,21 +76,52 @@ body {
         color: white;
     }
 
+
 .tooltip {
     position: absolute;
+    display: flex;
     color: white;
     background-color: gray;
-    padding-top: 8px;
-    padding-bottom: 8px;
-    padding-left: 16px;
-    padding-right: 16px;
+    padding: 10px 20px;
     border-radius: 5px;
     font-size: 12px;
     bottom: -30px;
     opacity: 0;
     transition: opacity 0.15s;
     pointer-events: none;
-    left: 44.6%;  
+    left: 44.3%;
+
 }
 
+.world-map {
+    width: 300px;
+    margin-bottom: 38px;
+}
+
+.welcome-page-btn {
+    position: relative;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+    .welcome-page-btn:hover .tooltip-welcome-page {
+        opacity: 1;
+    }
+
+
+.tooltip-welcome-page {
+    position: absolute;
+    color: white;
+    background-color: gray;
+    padding: 2px;
+    border-radius: 5px;
+    font-size: 10px;
+    bottom: -30px;
+    opacity: 0;
+    transition: opacity 0.15s;
+    pointer-events: none;
+    left: 0;
+    margin-top: 0;
+    width: 95px;
+}
 

@@ -33,7 +33,7 @@ namespace CurrencyConverterPro
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=CurrencyConverter}/{action=Index}/{id?}");   
+                pattern: "{controller=CurrencyConverter}/{action=WelcomePage}/{id?}");   
 
             app.Run();
 
