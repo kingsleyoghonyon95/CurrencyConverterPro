@@ -14,16 +14,16 @@ namespace CurrencyConverter.Services.CurrencyLogic
 {
     public class CurrencyLogic : ICurrencyConverterLogic
     {
-        public double ConvertCurrency(CurrencyModel model)
+        public decimal ConvertCurrency(CurrencyModel model)
         {
-            double convertedTotal = 0.0;
-            double AmountToConvert = model.Amount;
-            double dollarToEuro = 0.91;
-            double euroToDollar = 1.10;
-            double dollarsToNgn = 1.636;
-            double euroToNgn = 1.835;
-            double NgnToDollars = 0.0006;
-            double NgnToEuro = 0.0005;
+            decimal convertedTotal = 0.0m;
+            decimal AmountToConvert = model.Amount;
+            decimal dollarToEuro = 0.96m;
+            decimal euroToDollar = 1.10m;
+            decimal dollarsToNgn = 1.636m;
+            decimal euroToNgn = 1.835m;
+            decimal NgnToDollars = 0.0006m;
+            decimal NgnToEuro = 0.0005m;
 
             if (model.FromCurrency == model.ToCurrency)
             {

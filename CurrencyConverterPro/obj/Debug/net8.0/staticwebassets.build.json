@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4Cd3ndGGuJF6gOk9T/ZpxSSTdOX67eXAwJczgozKsx8=",
+  "Hash": "RxhbZR8zjXc+o3RdeTGpgUoJjoZ6wsECEoxAGqAVOw4=",
   "Source": "CurrencyConverterPro",
   "BasePath": "_content/CurrencyConverterPro",
   "Mode": "Default",
@@ -157,8 +157,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "73kdqttayv",
-      "Integrity": "DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=",
+      "Fingerprint": "xmyptend4z",
+      "Integrity": "mWBy8Y9bktN0g3YCYoK+muNEZpd+rrOtnV1I2eoThgQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8inm30yfxf",
-      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "Fingerprint": "plsl27jjml",
+      "Integrity": "881rdg8IEDqF/JBO/CF3P7fecd60sHPrucWuM5oa20o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
@@ -241,8 +241,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4gxs3k148c",
-      "Integrity": "VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=",
+      "Fingerprint": "eryjj01png",
+      "Integrity": "unlfDKygs40Hv8xxuREm/Feh2YEVObanlk3am8Jgb1E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
@@ -283,8 +283,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fctod5rc9n",
-      "Integrity": "j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=",
+      "Fingerprint": "f419mvdpdt",
+      "Integrity": "7y8do6687NNsfQwNsAiiOoN+UcMB06mvD1L89WAmZVc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
@@ -493,8 +493,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jeal3x0ldm",
-      "Integrity": "FZG0KxbNqITUi4QY7QvPFRS/TccntMfFWfSTdHN/pws=",
+      "Fingerprint": "0pj77xh5rd",
+      "Integrity": "dDoOVs2YgaZPMCMYNTbLEHT+U+ZElsBajwGoSl3pHs8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
@@ -535,8 +535,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "okkk44j0xs",
-      "Integrity": "2BbRsE/+czX1ufmDPGpnEieC9u6I3m5BKNDSX1ob3lg=",
+      "Fingerprint": "58xswsqvm6",
+      "Integrity": "NQfy3bcepR8JAazfrEiihjkRht2LErDojBOlXn1qybs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
@@ -577,8 +577,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "cwzlr5n8x4",
-      "Integrity": "/EdWHN6t5XYPplC88vixGfrBvfEii19kAssb+0YBVU8=",
+      "Fingerprint": "iprd99ir9h",
+      "Integrity": "hhr9cFhSUbgPAasoGvFTR8DdeUQe1LU0lofL3SFnR5M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
@@ -619,8 +619,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wmug9u23qg",
-      "Integrity": "GMDk5pA5dFkOimkBAWeEjYZ+7lgHPS0jYln6p/WJVYs=",
+      "Fingerprint": "2jpo8bfkc3",
+      "Integrity": "wmT1kUlQONvGgWINdhm6AtrLZkrS85pEz1UDUz5PpgQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
@@ -808,8 +808,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "l2av4jpuoj",
-      "Integrity": "vQTf4d3WJi9vmWQNA4kJnjoedgEhMFXFDEMXqtHtgzk=",
+      "Fingerprint": "k6ex7phuvx",
+      "Integrity": "9D6s3VMG69yXtxVeb/lAs4fMfLJRWGfVeuN6DHMdQYA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
@@ -829,8 +829,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "kbynt5jhd9",
-      "Integrity": "gO4uhxfGuK0ONjRlHuwfghGfEXT5azm1oHWnTEFGTfk=",
+      "Fingerprint": "w909xciydd",
+      "Integrity": "XIUXtpp/5ljgngZW3LjrcaXj+IiYrhPlfsAU5OTsWCc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
@@ -871,8 +871,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2nslu3uf3",
-      "Integrity": "xIBBxDPvWhk8/JdaFEZoejadfaKFUfZFwRS1D4Jkuro=",
+      "Fingerprint": "iix9zhcarg",
+      "Integrity": "6jgLHvc/tsc3atYin5EYMRBuMqaT2vWfZ0FWhoKbq3M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
@@ -892,8 +892,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "m39kt2b5c9",
-      "Integrity": "EuDXUJYKnfZuO8dSLN0f5iVbVasz36AROuAU3NJ3JBo=",
+      "Fingerprint": "funqpms77b",
+      "Integrity": "ybOln3UygsyA9rOQZR8fYh9bOdctrpqqoJA81hhjc7c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
@@ -913,8 +913,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "2lgwfvgpvi",
-      "Integrity": "CllC/sbLvyLE9cQljmFRlITfqdZRnBv2ysX5LJtl/dg=",
+      "Fingerprint": "57t92r5u42",
+      "Integrity": "76WjpwJFbDLIuVjiFyDF7YBR3P6psHWU+hgW7y17i0c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
@@ -955,8 +955,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wsezl0heh6",
-      "Integrity": "sPqzWcSS9aRa2gpWTVNQzemajn8hrFjgXPj3j9QItQo=",
+      "Fingerprint": "1mhk0hpo2e",
+      "Integrity": "1/Vz/jA6SbPfUkUe+DzMeaACRw5kPkDOJIn6Fp8Hets=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
@@ -976,8 +976,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "o4kw7cc6tf",
-      "Integrity": "6IStRQerBchYSw6J2GWTOWGOnDRrWXmaG0r6nCwN5s4=",
+      "Fingerprint": "uzgpyqm5pk",
+      "Integrity": "tjMGY/kyJVCr2s+yyYxuqbFsUkqOEf9Hhfkb/0cN9uM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
@@ -997,8 +997,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6ukhryfubh",
-      "Integrity": "Qkl5mZUZ64aYBaORRMP9jfD1kz8J6FwiV2M86JDJkdQ=",
+      "Fingerprint": "xs3lbq6hzp",
+      "Integrity": "gTlxRwiew5Becr3/BROnhzWLDDTGPkVQf0Ct6V0XoB4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
@@ -1039,8 +1039,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "u33ctipx7g",
-      "Integrity": "ui/FQI+y0IUsY8Pbi80b8s3GeEL+PsvdaLTONobpn88=",
+      "Fingerprint": "71jl3mebwh",
+      "Integrity": "ZRHWr5iyPHb+8OeO2+sJPITEqQZ+J0wYQ7GQEEscYik=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
@@ -1081,8 +1081,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fwhahm2icz",
-      "Integrity": "H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=",
+      "Fingerprint": "7h8ceca9lr",
+      "Integrity": "FewIeORjb33kzyzpVmM/f6MXKGSSoBHtP5Da/+kJkCY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
@@ -1446,7 +1446,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Oct 2024 10:10:57 GMT"
+          "Value": "Thu, 09 Jan 2025 04:54:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1483,7 +1483,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Oct 2024 10:10:57 GMT"
+          "Value": "Thu, 09 Jan 2025 04:54:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1528,7 +1528,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Oct 2024 10:10:57 GMT"
+          "Value": "Thu, 09 Jan 2025 04:54:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1573,7 +1573,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Oct 2024 10:10:57 GMT"
+          "Value": "Thu, 09 Jan 2025 04:54:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1789,51 +1789,6 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536547"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "73kdqttayv"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
-        }
-      ]
-    },
-    {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
@@ -1844,7 +1799,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "536547"
+          "Value": "536550"
         },
         {
           "Name": "Content-Type",
@@ -1852,11 +1807,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
+          "Value": "\"mWBy8Y9bktN0g3YCYoK+muNEZpd+rrOtnV1I2eoThgQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1866,7 +1821,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
+          "Value": "sha256-mWBy8Y9bktN0g3YCYoK+muNEZpd+rrOtnV1I2eoThgQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.xmyptend4z.map",
+      "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536550"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mWBy8Y9bktN0g3YCYoK+muNEZpd+rrOtnV1I2eoThgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xmyptend4z"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mWBy8Y9bktN0g3YCYoK+muNEZpd+rrOtnV1I2eoThgQ="
         }
       ]
     },
@@ -1953,51 +1953,6 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "449111"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8inm30yfxf"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
@@ -2008,7 +1963,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "449111"
+          "Value": "449114"
         },
         {
           "Name": "Content-Type",
@@ -2016,11 +1971,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+          "Value": "\"881rdg8IEDqF/JBO/CF3P7fecd60sHPrucWuM5oa20o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2030,7 +1985,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+          "Value": "sha256-881rdg8IEDqF/JBO/CF3P7fecd60sHPrucWuM5oa20o="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.plsl27jjml.map",
+      "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449114"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"881rdg8IEDqF/JBO/CF3P7fecd60sHPrucWuM5oa20o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "plsl27jjml"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-881rdg8IEDqF/JBO/CF3P7fecd60sHPrucWuM5oa20o="
         }
       ]
     },
@@ -2117,7 +2117,7 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.eryjj01png.map",
       "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2127,7 +2127,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "536461"
+          "Value": "536464"
         },
         {
           "Name": "Content-Type",
@@ -2135,11 +2135,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
+          "Value": "\"unlfDKygs40Hv8xxuREm/Feh2YEVObanlk3am8Jgb1E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2149,7 +2149,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4gxs3k148c"
+          "Value": "eryjj01png"
         },
         {
           "Name": "label",
@@ -2157,7 +2157,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
+          "Value": "sha256-unlfDKygs40Hv8xxuREm/Feh2YEVObanlk3am8Jgb1E="
         }
       ]
     },
@@ -2172,7 +2172,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "536461"
+          "Value": "536464"
         },
         {
           "Name": "Content-Type",
@@ -2180,11 +2180,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
+          "Value": "\"unlfDKygs40Hv8xxuREm/Feh2YEVObanlk3am8Jgb1E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2194,7 +2194,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
+          "Value": "sha256-unlfDKygs40Hv8xxuREm/Feh2YEVObanlk3am8Jgb1E="
         }
       ]
     },
@@ -2281,7 +2281,7 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.f419mvdpdt.map",
       "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2291,7 +2291,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "661035"
+          "Value": "661038"
         },
         {
           "Name": "Content-Type",
@@ -2299,11 +2299,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
+          "Value": "\"7y8do6687NNsfQwNsAiiOoN+UcMB06mvD1L89WAmZVc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2313,7 +2313,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fctod5rc9n"
+          "Value": "f419mvdpdt"
         },
         {
           "Name": "label",
@@ -2321,7 +2321,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
+          "Value": "sha256-7y8do6687NNsfQwNsAiiOoN+UcMB06mvD1L89WAmZVc="
         }
       ]
     },
@@ -2336,7 +2336,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "661035"
+          "Value": "661038"
         },
         {
           "Name": "Content-Type",
@@ -2344,11 +2344,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
+          "Value": "\"7y8do6687NNsfQwNsAiiOoN+UcMB06mvD1L89WAmZVc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2358,7 +2358,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
+          "Value": "sha256-7y8do6687NNsfQwNsAiiOoN+UcMB06mvD1L89WAmZVc="
         }
       ]
     },
@@ -3146,7 +3146,7 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.0pj77xh5rd.map",
       "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3156,7 +3156,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "105138"
+          "Value": "105139"
         },
         {
           "Name": "Content-Type",
@@ -3164,11 +3164,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FZG0KxbNqITUi4QY7QvPFRS/TccntMfFWfSTdHN/pws=\""
+          "Value": "\"dDoOVs2YgaZPMCMYNTbLEHT+U+ZElsBajwGoSl3pHs8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3178,7 +3178,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jeal3x0ldm"
+          "Value": "0pj77xh5rd"
         },
         {
           "Name": "label",
@@ -3186,7 +3186,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FZG0KxbNqITUi4QY7QvPFRS/TccntMfFWfSTdHN/pws="
+          "Value": "sha256-dDoOVs2YgaZPMCMYNTbLEHT+U+ZElsBajwGoSl3pHs8="
         }
       ]
     },
@@ -3201,7 +3201,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "105138"
+          "Value": "105139"
         },
         {
           "Name": "Content-Type",
@@ -3209,11 +3209,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FZG0KxbNqITUi4QY7QvPFRS/TccntMfFWfSTdHN/pws=\""
+          "Value": "\"dDoOVs2YgaZPMCMYNTbLEHT+U+ZElsBajwGoSl3pHs8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3223,7 +3223,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FZG0KxbNqITUi4QY7QvPFRS/TccntMfFWfSTdHN/pws="
+          "Value": "sha256-dDoOVs2YgaZPMCMYNTbLEHT+U+ZElsBajwGoSl3pHs8="
         }
       ]
     },
@@ -3265,6 +3265,51 @@
       ]
     },
     {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.58xswsqvm6.map",
+      "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NQfy3bcepR8JAazfrEiihjkRht2LErDojBOlXn1qybs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 04:49:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "58xswsqvm6"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NQfy3bcepR8JAazfrEiihjkRht2LErDojBOlXn1qybs="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
@@ -3275,7 +3320,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "35330"
+          "Value": "35331"
         },
         {
           "Name": "Content-Type",
@@ -3283,11 +3328,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2BbRsE/+czX1ufmDPGpnEieC9u6I3m5BKNDSX1ob3lg=\""
+          "Value": "\"NQfy3bcepR8JAazfrEiihjkRht2LErDojBOlXn1qybs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3297,52 +3342,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2BbRsE/+czX1ufmDPGpnEieC9u6I3m5BKNDSX1ob3lg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "35330"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2BbRsE/+czX1ufmDPGpnEieC9u6I3m5BKNDSX1ob3lg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "okkk44j0xs"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2BbRsE/+czX1ufmDPGpnEieC9u6I3m5BKNDSX1ob3lg="
+          "Value": "sha256-NQfy3bcepR8JAazfrEiihjkRht2LErDojBOlXn1qybs="
         }
       ]
     },
@@ -3474,7 +3474,7 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.iprd99ir9h.map",
       "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3484,7 +3484,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "105151"
+          "Value": "105152"
         },
         {
           "Name": "Content-Type",
@@ -3492,11 +3492,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/EdWHN6t5XYPplC88vixGfrBvfEii19kAssb+0YBVU8=\""
+          "Value": "\"hhr9cFhSUbgPAasoGvFTR8DdeUQe1LU0lofL3SFnR5M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3506,7 +3506,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cwzlr5n8x4"
+          "Value": "iprd99ir9h"
         },
         {
           "Name": "label",
@@ -3514,7 +3514,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/EdWHN6t5XYPplC88vixGfrBvfEii19kAssb+0YBVU8="
+          "Value": "sha256-hhr9cFhSUbgPAasoGvFTR8DdeUQe1LU0lofL3SFnR5M="
         }
       ]
     },
@@ -3529,7 +3529,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "105151"
+          "Value": "105152"
         },
         {
           "Name": "Content-Type",
@@ -3537,11 +3537,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/EdWHN6t5XYPplC88vixGfrBvfEii19kAssb+0YBVU8=\""
+          "Value": "\"hhr9cFhSUbgPAasoGvFTR8DdeUQe1LU0lofL3SFnR5M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3551,7 +3551,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/EdWHN6t5XYPplC88vixGfrBvfEii19kAssb+0YBVU8="
+          "Value": "sha256-hhr9cFhSUbgPAasoGvFTR8DdeUQe1LU0lofL3SFnR5M="
         }
       ]
     },
@@ -3593,6 +3593,51 @@
       ]
     },
     {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.2jpo8bfkc3.map",
+      "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41571"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wmT1kUlQONvGgWINdhm6AtrLZkrS85pEz1UDUz5PpgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 04:49:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2jpo8bfkc3"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wmT1kUlQONvGgWINdhm6AtrLZkrS85pEz1UDUz5PpgQ="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
@@ -3603,7 +3648,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "41570"
+          "Value": "41571"
         },
         {
           "Name": "Content-Type",
@@ -3611,11 +3656,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GMDk5pA5dFkOimkBAWeEjYZ+7lgHPS0jYln6p/WJVYs=\""
+          "Value": "\"wmT1kUlQONvGgWINdhm6AtrLZkrS85pEz1UDUz5PpgQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3625,52 +3670,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GMDk5pA5dFkOimkBAWeEjYZ+7lgHPS0jYln6p/WJVYs="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "41570"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GMDk5pA5dFkOimkBAWeEjYZ+7lgHPS0jYln6p/WJVYs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wmug9u23qg"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GMDk5pA5dFkOimkBAWeEjYZ+7lgHPS0jYln6p/WJVYs="
+          "Value": "sha256-wmT1kUlQONvGgWINdhm6AtrLZkrS85pEz1UDUz5PpgQ="
         }
       ]
     },
@@ -4386,7 +4386,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "208492"
+          "Value": "208493"
         },
         {
           "Name": "Content-Type",
@@ -4394,11 +4394,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vQTf4d3WJi9vmWQNA4kJnjoedgEhMFXFDEMXqtHtgzk=\""
+          "Value": "\"9D6s3VMG69yXtxVeb/lAs4fMfLJRWGfVeuN6DHMdQYA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4408,52 +4408,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vQTf4d3WJi9vmWQNA4kJnjoedgEhMFXFDEMXqtHtgzk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "425643"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gO4uhxfGuK0ONjRlHuwfghGfEXT5azm1oHWnTEFGTfk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "kbynt5jhd9"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.js.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-gO4uhxfGuK0ONjRlHuwfghGfEXT5azm1oHWnTEFGTfk="
+          "Value": "sha256-9D6s3VMG69yXtxVeb/lAs4fMfLJRWGfVeuN6DHMdQYA="
         }
       ]
     },
@@ -4468,7 +4423,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "425643"
+          "Value": "425644"
         },
         {
           "Name": "Content-Type",
@@ -4476,11 +4431,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gO4uhxfGuK0ONjRlHuwfghGfEXT5azm1oHWnTEFGTfk=\""
+          "Value": "\"XIUXtpp/5ljgngZW3LjrcaXj+IiYrhPlfsAU5OTsWCc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4490,13 +4445,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gO4uhxfGuK0ONjRlHuwfghGfEXT5azm1oHWnTEFGTfk="
+          "Value": "sha256-XIUXtpp/5ljgngZW3LjrcaXj+IiYrhPlfsAU5OTsWCc="
         }
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.w909xciydd.map",
+      "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4505,19 +4460,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "208492"
+          "Value": "425644"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/javascript"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
-          "Value": "\"vQTf4d3WJi9vmWQNA4kJnjoedgEhMFXFDEMXqtHtgzk=\""
+          "Value": "\"XIUXtpp/5ljgngZW3LjrcaXj+IiYrhPlfsAU5OTsWCc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4527,7 +4482,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "l2av4jpuoj"
+          "Value": "w909xciydd"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XIUXtpp/5ljgngZW3LjrcaXj+IiYrhPlfsAU5OTsWCc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.k6ex7phuvx.js",
+      "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "208493"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9D6s3VMG69yXtxVeb/lAs4fMfLJRWGfVeuN6DHMdQYA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k6ex7phuvx"
         },
         {
           "Name": "label",
@@ -4535,7 +4535,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vQTf4d3WJi9vmWQNA4kJnjoedgEhMFXFDEMXqtHtgzk="
+          "Value": "sha256-9D6s3VMG69yXtxVeb/lAs4fMfLJRWGfVeuN6DHMdQYA="
         }
       ]
     },
@@ -4622,7 +4622,7 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.iix9zhcarg.map",
       "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4632,7 +4632,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "327261"
+          "Value": "327262"
         },
         {
           "Name": "Content-Type",
@@ -4640,11 +4640,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xIBBxDPvWhk8/JdaFEZoejadfaKFUfZFwRS1D4Jkuro=\""
+          "Value": "\"6jgLHvc/tsc3atYin5EYMRBuMqaT2vWfZ0FWhoKbq3M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4654,7 +4654,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "c2nslu3uf3"
+          "Value": "iix9zhcarg"
         },
         {
           "Name": "label",
@@ -4662,7 +4662,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xIBBxDPvWhk8/JdaFEZoejadfaKFUfZFwRS1D4Jkuro="
+          "Value": "sha256-6jgLHvc/tsc3atYin5EYMRBuMqaT2vWfZ0FWhoKbq3M="
         }
       ]
     },
@@ -4677,7 +4677,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "327261"
+          "Value": "327262"
         },
         {
           "Name": "Content-Type",
@@ -4685,11 +4685,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xIBBxDPvWhk8/JdaFEZoejadfaKFUfZFwRS1D4Jkuro=\""
+          "Value": "\"6jgLHvc/tsc3atYin5EYMRBuMqaT2vWfZ0FWhoKbq3M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4699,7 +4699,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xIBBxDPvWhk8/JdaFEZoejadfaKFUfZFwRS1D4Jkuro="
+          "Value": "sha256-6jgLHvc/tsc3atYin5EYMRBuMqaT2vWfZ0FWhoKbq3M="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.esm.funqpms77b.js",
+      "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ybOln3UygsyA9rOQZR8fYh9bOdctrpqqoJA81hhjc7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "funqpms77b"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.esm.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ybOln3UygsyA9rOQZR8fYh9bOdctrpqqoJA81hhjc7c="
         }
       ]
     },
@@ -4714,7 +4759,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "139019"
+          "Value": "139020"
         },
         {
           "Name": "Content-Type",
@@ -4722,11 +4767,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EuDXUJYKnfZuO8dSLN0f5iVbVasz36AROuAU3NJ3JBo=\""
+          "Value": "\"ybOln3UygsyA9rOQZR8fYh9bOdctrpqqoJA81hhjc7c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4736,12 +4781,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EuDXUJYKnfZuO8dSLN0f5iVbVasz36AROuAU3NJ3JBo="
+          "Value": "sha256-ybOln3UygsyA9rOQZR8fYh9bOdctrpqqoJA81hhjc7c="
         }
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
+      "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.57t92r5u42.map",
       "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4751,7 +4796,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "288320"
+          "Value": "288321"
         },
         {
           "Name": "Content-Type",
@@ -4759,11 +4804,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CllC/sbLvyLE9cQljmFRlITfqdZRnBv2ysX5LJtl/dg=\""
+          "Value": "\"76WjpwJFbDLIuVjiFyDF7YBR3P6psHWU+hgW7y17i0c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4773,7 +4818,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2lgwfvgpvi"
+          "Value": "57t92r5u42"
         },
         {
           "Name": "label",
@@ -4781,7 +4826,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CllC/sbLvyLE9cQljmFRlITfqdZRnBv2ysX5LJtl/dg="
+          "Value": "sha256-76WjpwJFbDLIuVjiFyDF7YBR3P6psHWU+hgW7y17i0c="
         }
       ]
     },
@@ -4796,7 +4841,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "288320"
+          "Value": "288321"
         },
         {
           "Name": "Content-Type",
@@ -4804,11 +4849,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CllC/sbLvyLE9cQljmFRlITfqdZRnBv2ysX5LJtl/dg=\""
+          "Value": "\"76WjpwJFbDLIuVjiFyDF7YBR3P6psHWU+hgW7y17i0c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4818,52 +4863,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CllC/sbLvyLE9cQljmFRlITfqdZRnBv2ysX5LJtl/dg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "139019"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"EuDXUJYKnfZuO8dSLN0f5iVbVasz36AROuAU3NJ3JBo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "m39kt2b5c9"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.esm.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-EuDXUJYKnfZuO8dSLN0f5iVbVasz36AROuAU3NJ3JBo="
+          "Value": "sha256-76WjpwJFbDLIuVjiFyDF7YBR3P6psHWU+hgW7y17i0c="
         }
       ]
     },
@@ -4905,6 +4905,51 @@
       ]
     },
     {
+      "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.1mhk0hpo2e.map",
+      "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "222509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1/Vz/jA6SbPfUkUe+DzMeaACRw5kPkDOJIn6Fp8Hets=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1mhk0hpo2e"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1/Vz/jA6SbPfUkUe+DzMeaACRw5kPkDOJIn6Fp8Hets="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
@@ -4915,7 +4960,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "222508"
+          "Value": "222509"
         },
         {
           "Name": "Content-Type",
@@ -4923,11 +4968,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sPqzWcSS9aRa2gpWTVNQzemajn8hrFjgXPj3j9QItQo=\""
+          "Value": "\"1/Vz/jA6SbPfUkUe+DzMeaACRw5kPkDOJIn6Fp8Hets=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4937,52 +4982,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sPqzWcSS9aRa2gpWTVNQzemajn8hrFjgXPj3j9QItQo="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "222508"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"sPqzWcSS9aRa2gpWTVNQzemajn8hrFjgXPj3j9QItQo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wsezl0heh6"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-sPqzWcSS9aRa2gpWTVNQzemajn8hrFjgXPj3j9QItQo="
+          "Value": "sha256-1/Vz/jA6SbPfUkUe+DzMeaACRw5kPkDOJIn6Fp8Hets="
         }
       ]
     },
@@ -5042,7 +5042,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "148168"
+          "Value": "148169"
         },
         {
           "Name": "Content-Type",
@@ -5050,11 +5050,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6IStRQerBchYSw6J2GWTOWGOnDRrWXmaG0r6nCwN5s4=\""
+          "Value": "\"tjMGY/kyJVCr2s+yyYxuqbFsUkqOEf9Hhfkb/0cN9uM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5064,52 +5064,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-6IStRQerBchYSw6J2GWTOWGOnDRrWXmaG0r6nCwN5s4="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "289522"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Qkl5mZUZ64aYBaORRMP9jfD1kz8J6FwiV2M86JDJkdQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6ukhryfubh"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.js.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Qkl5mZUZ64aYBaORRMP9jfD1kz8J6FwiV2M86JDJkdQ="
+          "Value": "sha256-tjMGY/kyJVCr2s+yyYxuqbFsUkqOEf9Hhfkb/0cN9uM="
         }
       ]
     },
@@ -5124,7 +5079,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "289522"
+          "Value": "289523"
         },
         {
           "Name": "Content-Type",
@@ -5132,11 +5087,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Qkl5mZUZ64aYBaORRMP9jfD1kz8J6FwiV2M86JDJkdQ=\""
+          "Value": "\"gTlxRwiew5Becr3/BROnhzWLDDTGPkVQf0Ct6V0XoB4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5146,7 +5101,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Qkl5mZUZ64aYBaORRMP9jfD1kz8J6FwiV2M86JDJkdQ="
+          "Value": "sha256-gTlxRwiew5Becr3/BROnhzWLDDTGPkVQf0Ct6V0XoB4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.js.xs3lbq6hzp.map",
+      "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289523"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gTlxRwiew5Becr3/BROnhzWLDDTGPkVQf0Ct6V0XoB4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xs3lbq6hzp"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gTlxRwiew5Becr3/BROnhzWLDDTGPkVQf0Ct6V0XoB4="
         }
       ]
     },
@@ -5188,6 +5188,51 @@
       ]
     },
     {
+      "Route": "lib/bootstrap/dist/js/bootstrap.min.js.71jl3mebwh.map",
+      "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZRHWr5iyPHb+8OeO2+sJPITEqQZ+J0wYQ7GQEEscYik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "71jl3mebwh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.min.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZRHWr5iyPHb+8OeO2+sJPITEqQZ+J0wYQ7GQEEscYik="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
@@ -5198,7 +5243,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "217145"
+          "Value": "217146"
         },
         {
           "Name": "Content-Type",
@@ -5206,11 +5251,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ui/FQI+y0IUsY8Pbi80b8s3GeEL+PsvdaLTONobpn88=\""
+          "Value": "\"ZRHWr5iyPHb+8OeO2+sJPITEqQZ+J0wYQ7GQEEscYik=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5220,52 +5265,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ui/FQI+y0IUsY8Pbi80b8s3GeEL+PsvdaLTONobpn88="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "217145"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ui/FQI+y0IUsY8Pbi80b8s3GeEL+PsvdaLTONobpn88=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "u33ctipx7g"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/js/bootstrap.min.js.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ui/FQI+y0IUsY8Pbi80b8s3GeEL+PsvdaLTONobpn88="
+          "Value": "sha256-ZRHWr5iyPHb+8OeO2+sJPITEqQZ+J0wYQ7GQEEscYik="
         }
       ]
     },
@@ -5315,7 +5315,7 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
+      "Route": "lib/bootstrap/dist/js/bootstrap.uzgpyqm5pk.js",
       "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5325,7 +5325,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "148168"
+          "Value": "148169"
         },
         {
           "Name": "Content-Type",
@@ -5333,11 +5333,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6IStRQerBchYSw6J2GWTOWGOnDRrWXmaG0r6nCwN5s4=\""
+          "Value": "\"tjMGY/kyJVCr2s+yyYxuqbFsUkqOEf9Hhfkb/0cN9uM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5347,7 +5347,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "o4kw7cc6tf"
+          "Value": "uzgpyqm5pk"
         },
         {
           "Name": "label",
@@ -5355,7 +5355,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6IStRQerBchYSw6J2GWTOWGOnDRrWXmaG0r6nCwN5s4="
+          "Value": "sha256-tjMGY/kyJVCr2s+yyYxuqbFsUkqOEf9Hhfkb/0cN9uM="
         }
       ]
     },
@@ -5442,7 +5442,7 @@
       ]
     },
     {
-      "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
+      "Route": "lib/jquery/dist/jquery.7h8ceca9lr.js",
       "AssetFile": "C:\\Users\\Owner\\source\\repos\\CurrencyConverterPro\\CurrencyConverterPro\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5452,7 +5452,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "288580"
+          "Value": "288581"
         },
         {
           "Name": "Content-Type",
@@ -5460,11 +5460,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
+          "Value": "\"FewIeORjb33kzyzpVmM/f6MXKGSSoBHtP5Da/+kJkCY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5474,7 +5474,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fwhahm2icz"
+          "Value": "7h8ceca9lr"
         },
         {
           "Name": "label",
@@ -5482,7 +5482,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+          "Value": "sha256-FewIeORjb33kzyzpVmM/f6MXKGSSoBHtP5Da/+kJkCY="
         }
       ]
     },
@@ -5497,7 +5497,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "288580"
+          "Value": "288581"
         },
         {
           "Name": "Content-Type",
@@ -5505,11 +5505,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
+          "Value": "\"FewIeORjb33kzyzpVmM/f6MXKGSSoBHtP5Da/+kJkCY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Sep 2024 00:41:12 GMT"
+          "Value": "Thu, 09 Jan 2025 04:49:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5519,7 +5519,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+          "Value": "sha256-FewIeORjb33kzyzpVmM/f6MXKGSSoBHtP5Da/+kJkCY="
         }
       ]
     },
