@@ -14,14 +14,31 @@
                 <option value="" disabled selected>Select Currency</option>
                 @foreach (string currency in Model.CurrencyList)
                 {
-                    <option value="@currency">@currency</option>
+                    if (currency == Model.FromCurrency)
+                    {
+                        <option value="@currency" selected="@Model.FromCurrency">@currency</option>
+                    }
+                    else
+                    {
+                        <option value="@currency">@currency</option>
+                    }
                 }
             </select>
         </div>
 
         <div class="currency-block">
             <label for="Amount" class="label">Amount to Convert:</label>
-            <input id="Amount" type="number" class="currency-input" name="Amount" placeholder="Amount" required min="0.00">
+
+            @if (Model.Amount > 0)
+            {
+                <input id="Amount" value="@Model.Amount" type="number" class="currency-input" name="Amount" placeholder="Amount" required min="0.00" step="0.01">
+
+            }
+            else
+            {
+                <input id="Amount" type="number" class="currency-input" name="Amount" placeholder="Amount" required min="0.00" step="0.01">
+
+            }
         </div>
     </div>
 
@@ -33,7 +50,14 @@
                 <option value="" disabled selected>Select Currency</option>
                 @foreach (string currency in Model.CurrencyList)
                 {
-                    <option value="@currency">@currency</option>
+                    if (currency == Model.ToCurrency)
+                    {
+                        <option value="@currency" selected="@Model.ToCurrency">@currency</option>
+                    }
+                    else
+                    {
+                        <option value="@currency">@currency</option>
+                    }
                 }
             </select>
         </div>

@@ -9,17 +9,34 @@ namespace CurrencyConverterPro.Models
     {
         public string? FromCurrency { get; set; }
         public string? ToCurrency { get; set; }
-        public double Amount { get; set; }
+        public decimal Amount { get; set; }
         public List<string> CurrencyList { get; set; }
-        public double ConvertedResult { get; set; }
+        public decimal ConvertedResult { get; set; }
 
         public CurrencyConverterViewModel()
         {
             CurrencyList =
             [
-                "USD",
+                "AUD",
+                "BOB",
+                "BRL",
+                "CAD",
+                "CDF",
+                "CHF",
                 "EUR",
-                "NGN"
+                "GBP",
+                "GHS",
+                "HKD",
+                "JPY",
+                "LAK",
+                "LYD",
+                "MAD",
+                "NAD",
+                "NGN",
+                "MNT",
+                "MRU",
+                "USD",
+                "ZAR"
             ];
         }
     }

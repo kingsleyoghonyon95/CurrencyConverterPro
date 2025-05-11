@@ -10,7 +10,7 @@ namespace CurrencyConverter.Services.Model
     {
         public string? FromCurrency { get; set; }
         public string? ToCurrency { get; set; }
-        public double Amount { get; set; }
+        public decimal Amount { get; set; }
         public List<string>? CurrencyList { get; set; } 
         public int ConvertedResult { get; set; }
     }

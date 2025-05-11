@@ -1,5 +1,6 @@
 /* General Styles */
 body {
+    background-color: lightsteelblue;
     font-family: Arial, sans-serif;
     margin: 20px;
 }
@@ -108,20 +109,19 @@ body {
         opacity: 1;
     }
 
-
 .tooltip-welcome-page {
     position: absolute;
     color: white;
     background-color: gray;
-    padding: 2px;
-    border-radius: 5px;
-    font-size: 10px;
-    bottom: -30px;
+    padding: 1px;
+    border-radius: 1px;
+    font-size: 12px;
+    bottom: -35px;
     opacity: 0;
     transition: opacity 0.15s;
     pointer-events: none;
-    left: 0;
     margin-top: 0;
-    width: 95px;
+    left: 8px;
+    width: 75px;
 }
 

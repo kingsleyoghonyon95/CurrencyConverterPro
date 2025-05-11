@@ -9,7 +9,7 @@ namespace CurrencyConverter.services.ICurrencyConverter
 {
     public interface ICurrencyConverterLogic
     {
-        public double ConvertCurrency(CurrencyModel model);
+        public Task<Decimal> ConvertCurrency(CurrencyModel model);
 
     }
 }

@@ -28,7 +28,7 @@ namespace CurrencyConverterPro.Controllers
         }
 
         [HttpPost]
-        public IActionResult Convert(CurrencyConverterViewModel model)
+        public async Task<IActionResult> Convert(CurrencyConverterViewModel model)
         {
             if (ModelState.IsValid)
             {
@@ -39,7 +39,7 @@ namespace CurrencyConverterPro.Controllers
                     Amount = model.Amount
                 };
 
-                double convertedAmount = _logic.ConvertCurrency(currency);
+                decimal convertedAmount = await _logic.ConvertCurrency(currency);
                 model.ConvertedResult = Math.Round(convertedAmount, 2);
 
                 return View("Index", model);
